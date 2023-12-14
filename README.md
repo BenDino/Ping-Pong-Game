@@ -1,9 +1,9 @@
 # Ping-Pong-Game
 This is a game made with vscode as a replica of the OG pong game
 
-#How To Play
+# How To Play
 
-##Controls 
+## Controls 
 
 Player 1: 
 W - Up
