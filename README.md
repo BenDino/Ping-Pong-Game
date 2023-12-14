@@ -1,5 +1,6 @@
 # Ping-Pong-Game
 This is a game made with vscode as a replica of the OG pong game
+its a 2 player game with W and S for Player 1 and Up arrow and Down arrow keys for Player 2
 
 # How To Play
 
