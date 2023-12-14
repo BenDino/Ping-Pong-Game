@@ -7,7 +7,7 @@ It's a 2 player game with W and S for Player 1 and Up arrow and Down arrow keys 
 
 ## Controls 
 
-Player 1: 
+### Player 1 Controls: 
 
 W - Up
 
@@ -16,7 +16,7 @@ S - Down
 
 
 
-Player 2: 
+### Player 2 Controls: 
 
 Up arrow key  - Up
 
