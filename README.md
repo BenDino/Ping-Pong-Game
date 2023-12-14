@@ -3,9 +3,9 @@ This is a game made with vscode as a replica of the OG pong game
 
 #How To Play
 
-##Controls
+##Controls 
 
-Player 1:
+Player 1: 
 W - Up
 S - Down
 
